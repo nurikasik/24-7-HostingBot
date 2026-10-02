@@ -2,12 +2,12 @@
   "name": "AFK Bot",
   "bot-account": {
     "username": "speed44410",
-    "password": "",
+    "password": "01346790nur",
     "type": "offline"
   },
   "server": {
-    "ip": "voidcore.mcsh.io",
-    "port": 25565,
+    "ip": "ElinSMP.aternos.me",
+    "port": 15535,
     "version": "1.21.1"
   },
   "position": {
